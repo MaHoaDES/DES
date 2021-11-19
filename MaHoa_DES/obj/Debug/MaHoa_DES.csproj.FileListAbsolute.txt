@@ -1,0 +1,24 @@
+C:\Users\Phong\Desktop\MaHoa_DES\MaHoa_DES\bin\Debug\MaHoa_DES.exe
+C:\Users\Phong\Desktop\MaHoa_DES\MaHoa_DES\bin\Debug\MaHoa_DES.pdb
+C:\Users\Phong\Desktop\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Desktop\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.Form1.resources
+C:\Users\Phong\Desktop\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.Properties.Resources.resources
+C:\Users\Phong\Desktop\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.csproj.GenerateResource.Cache
+C:\Users\Phong\Desktop\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.exe
+C:\Users\Phong\Desktop\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.pdb
+D:\Lap trinh C#\Projects\WindowFrom\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.exe
+D:\Lap trinh C#\Projects\WindowFrom\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.pdb
+D:\Lap trinh C#\Projects\WindowFrom\MaHoa_DES\MaHoa_DES\bin\Debug\MaHoa_DES.exe
+D:\Lap trinh C#\Projects\WindowFrom\MaHoa_DES\MaHoa_DES\bin\Debug\MaHoa_DES.pdb
+D:\Lap trinh C#\Projects\WindowFrom\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.csprojResolveAssemblyReference.cache
+D:\Lap trinh C#\Projects\WindowFrom\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.Form1.resources
+D:\Lap trinh C#\Projects\WindowFrom\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.Properties.Resources.resources
+D:\Lap trinh C#\Projects\WindowFrom\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.csproj.GenerateResource.Cache
+D:\Desktop\WindowsFormC#\MaHoa_DES\MaHoa_DES\bin\Debug\MaHoa_DES.exe
+D:\Desktop\WindowsFormC#\MaHoa_DES\MaHoa_DES\bin\Debug\MaHoa_DES.pdb
+D:\Desktop\WindowsFormC#\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.csprojAssemblyReference.cache
+D:\Desktop\WindowsFormC#\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.Form1.resources
+D:\Desktop\WindowsFormC#\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.Properties.Resources.resources
+D:\Desktop\WindowsFormC#\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.csproj.GenerateResource.cache
+D:\Desktop\WindowsFormC#\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.exe
+D:\Desktop\WindowsFormC#\MaHoa_DES\MaHoa_DES\obj\Debug\MaHoa_DES.pdb
